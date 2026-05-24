@@ -1,4 +1,9 @@
 console.log("JS is working 🚀");
+console.log("JS is working 🚀");
+console.log("JS is working 🚀");
+console.log("JS is working 🚀");
+console.log("JS is working 🚀");
+
 
 // تأكيد التنفيذ في الـ Console
 console.log("Script executed successfully");
